@@ -1,0 +1,40 @@
+#current {
+    position: absolute;
+    float: left;
+    opacity: 1;
+    top: 8%;
+}
+#previous {
+    position: absolute;
+    left: 20%;
+    opacity: 0.8;
+    top: 8%;
+}
+#previous2 {
+    position: absolute;
+    left: 40%;
+    opacity: 0.6;
+    top: 8%;
+}
+#previous3 {
+    position: absolute;
+    left: 60%;
+    opacity: 0.4;
+    top: 8%;
+}
+#previous4 {
+    position: absolute;
+    left: 80%;
+    opacity: 0.2;
+    top: 8%;
+}
+.slidecontainer {
+    position: absolute;
+    top: 1%;
+}
+#average{
+    position: absolute;
+    top: 1%;
+    left: 25%
+
+}
